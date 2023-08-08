@@ -1,6 +1,6 @@
 {
   "name": "@api-lang/api-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The api-utils library of `api-lang`",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
